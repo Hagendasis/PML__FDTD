@@ -97,7 +97,7 @@
 ## 二维
 
 ![image](./img/Figure_2.png)
-![image](../%E6%A1%8C%E9%9D%A2/%E4%B8%B4%E6%97%B6%E6%96%87%E4%BB%B6/3.png)
+![image](./img/3.png)
 
 图三为二维UPML，点源在（50，50）位置处的波传播和吸收情况。边界处吸收良好，几乎不反射。在two_dimension.py中会生成一系列展现波传播过程的图。
 
