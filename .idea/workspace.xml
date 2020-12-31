@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb893dde-3905-48e7-a3ea-c4661a536497" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UPML2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one dimension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one dimension.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one dimension1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UPML2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/one dimension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/one dimension.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/one dimension1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.docx" beforeDir="false" afterPath="$PROJECT_DIR$/result.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +29,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.one dimension">
+  <component name="RunManager" selected="Python.one_dimension">
     <configuration name="PML03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,27 +43,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PML03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="UPML" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="F:\python_projects\ku\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UPML.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,19 +93,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="one_dimension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ku" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="F:\python_projects\ku\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/one.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/one_dimension.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="two_dimension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/two_dimension.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.one_dimension" />
+        <item itemvalue="Python.two_dimension" />
         <item itemvalue="Python.one dimension" />
         <item itemvalue="Python.UPML2" />
         <item itemvalue="Python.PML03" />
-        <item itemvalue="Python.UPML" />
-        <item itemvalue="Python.one" />
       </list>
     </recent_temporary>
   </component>
@@ -159,29 +157,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="951" height="202" key="GridCell.Tab.0.bottom" timestamp="1608991346878">
+    <state width="1186" height="202" key="GridCell.Tab.0.bottom" timestamp="1609421306286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="951" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608991346878" />
-    <state width="951" height="202" key="GridCell.Tab.0.center" timestamp="1608991346877">
+    <state width="1186" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609421306286" />
+    <state width="1186" height="202" key="GridCell.Tab.0.center" timestamp="1609421306286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="951" height="202" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608991346877" />
-    <state width="951" height="202" key="GridCell.Tab.0.left" timestamp="1608991346877">
+    <state width="1186" height="202" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609421306286" />
+    <state width="1186" height="202" key="GridCell.Tab.0.left" timestamp="1609421306286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="951" height="202" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608991346877" />
-    <state width="951" height="202" key="GridCell.Tab.0.right" timestamp="1608991346877">
+    <state width="1186" height="202" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609421306286" />
+    <state width="1186" height="202" key="GridCell.Tab.0.right" timestamp="1609421306286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="951" height="202" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608991346877" />
+    <state width="1186" height="202" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609421306286" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1608966340713">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608966340713" />
-    <state x="600" y="57" width="1086" height="789" key="dock-window-1" timestamp="1608988090776">
+    <state x="907" y="130" width="926" height="789" key="dock-window-1" timestamp="1609420280011">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="600" y="57" width="1086" height="789" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1608988090776" />
+    <state x="907" y="130" width="926" height="789" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1609420280011" />
   </component>
 </project>
