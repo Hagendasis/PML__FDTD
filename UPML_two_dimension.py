@@ -80,8 +80,10 @@ def fun():
         plt.subplot(5, 4, j)
         j = j + 1
         plt.imshow(data[i])
+     # 最后一个图
+    plt.figure()
+    plt.imshow(data[98])
     plt.show()
-
 if __name__=="__main__":
     fun()
 
